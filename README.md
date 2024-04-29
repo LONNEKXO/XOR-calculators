@@ -4,7 +4,11 @@ They compute the XOR of two values and determine the bitwise difference between 
 Enjoy using them!
 
 BinAndHexXORCalculator - BINARY VALUES AND HEXADECIMAL RESULTS 
+
 BinXORCalculator - BINARY VALUES AND BINARY RESULTS 
+
 DecXORCalculator - DECIMAL VALUES AND DECIMAL RESULTS 
+
 HexAndBinXORCalculator - HEXADECIMAL VALUES AND BINARY RESULTS 
+
 HexXORCalculator - HEXADECIMAL VALUES AND HEXADECIMAL RESULS 
